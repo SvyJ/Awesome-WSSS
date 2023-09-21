@@ -4,7 +4,7 @@ A comprehensive list of **weakly supervised semantic segmentation / object detec
 
 ---
 
-| when | what | title | where | arxiv | code | Description |
+| When | What | Title | Where | Paper | Code | Description |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|:----:|
 | xxxx/xx | **xxx** | xxx | xxxx xxxx | [xxx](xxx) | [xxx](xxx) | - |
 | 2023/08 | **CDL** | Credible Dual-Experts for Weakly Supervised Semantic Segmentation | IJCV 2023 | [Springer](https://link.springer.com/article/10.1007/s11263-023-01796-9) | [pytorch](https://github.com/zbf1991/CDL) | - |
