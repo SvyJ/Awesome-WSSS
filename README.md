@@ -8,6 +8,8 @@ For a more detailed introduction, please refer [【总结】弱监督语义分�
 
 | when | what | title | where | arxiv | code |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|
+|  | **** |  | - | - | - |
+| 2023/03 | **ToCo** | Token Contrast for Weakly-Supervised Semantic Segmentation | CVPR2023 | [2303.01267](https://arxiv.org/abs/2303.01267) | [pytorch](https://github.com/rulixiang/ToCo) |
 | 2022/04 | **L2G** | L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2204.03206](https://arxiv.org/abs/2204.03206) | [pytorch](https://github.com/PengtaoJiang/L2G) |
 | 2022/03 | **CCAM** | Contrastive Learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR 2022 | [2203.13505](https://arxiv.org/abs/2203.13505) | [pytorch](https://github.com/CVI-SZU/CCAM) |
 | 2022/03 | **RCA** | Regional Semantic Contrast and Aggregation for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2203.09653](https://arxiv.org/abs/2203.09653) | [pytorch](https://github.com/maeve07/RCA) |
