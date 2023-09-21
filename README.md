@@ -1,22 +1,23 @@
-# Awesome Weakly Supervised Semantic Segmentation
+# Awesome Weakly Supervised Learning
 
-A comprehensive list of **weakly supervised semantic segmentation** (WSSS) works from 2014 to 2023. Last updated at 2023/09/21.
+A comprehensive list of **weakly supervised semantic segmentation / object detection (WSSS / WSOD)**, etc works from 2014 to 2023. Last updated at 2023/09/21.
 
 ---
 
 | when | what | title | where | arxiv | code | Description |
 |:----:|:----:|:----- |:-----:|:-----:|:----:|:----:|
-| 2023/03 | **MCTformer+** | MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation | arXiv 2023 | [2308.03005](https://arxiv.org/abs/2308.03005) | [pytorch](https://github.com/xulianuwa/MCTformer) | - |
+| xxxx/xx | **xxx** | xxx | xxxx xxxx | [xxx](xxx) | [xxx](xxx) | - |
 | 2023/08 | **CDL** | Credible Dual-Experts for Weakly Supervised Semantic Segmentation | IJCV 2023 | [Springer](https://link.springer.com/article/10.1007/s11263-023-01796-9) | [pytorch](https://github.com/zbf1991/CDL) | - |
 | 2023/07 | **Pnt** | Toward Practical Weakly Supervised Semantic Segmentation via Point-Level Supervision | IJCV 2023 | [Springer](https://link.springer.com/article/10.1007/s11263-023-01862-2) | [pytorch](https://github.com/js-fan/PntWSSS) | - |
 | 2023/05 | **SEPL** | Segment Anything Model (SAM) Enhanced Pseudo Labels for Weakly Supervised Semantic Segmentation | arXiv 2023 | [2305.05803](https://arxiv.org/abs/2305.05803) | [pytorch](https://github.com/cskyl/SAM_WSSS) | - |
 | 2023/04 | **WaveCAM** | Wave-Like Class Activation Map With Representation Fusion for Weakly-Supervised Semantic Segmentation | TMM 2023 | [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10104136) | [pytorch](https://github.com/Rongtao-Xu/RepresentationLearning/tree/main/WaveCAM-TMM2023) | - |
-| 2023/02 | - | Semantic-Aware Superpixel for Weakly Supervised Semantic Segmentation | AAAI 2023 | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25196) | [pytorch](https://github.com/st17kim/semantic-aware-superpixel) | - |
+| 2023/03 | **MCTformer+** | MCTformer+: Multi-Class Token Transformer for Weakly Supervised Semantic Segmentation | arXiv 2023 | [2308.03005](https://arxiv.org/abs/2308.03005) | [pytorch](https://github.com/xulianuwa/MCTformer) | - |
 | 2023/03 | **ACR** | Weakly Supervised Semantic Segmentation via Adversarial Learning of Classifier and Reconstructor | CVPR 2023 | - | [pytorch](https://github.com/sangrockEG/ACR) | - |
 | 2023/03 | **Sparse-ViT** | Sparse Multimodal Vision Transformer for Weakly Supervised Semantic Segmentation | CVPR 2023 | - | [pytorch](https://github.com/HSG-AIML/sparse-vit-wsss) | - |
 | 2023/03 | **OCR** | Out-of-Candidate Rectification for Weakly Supervised Semantic Segmentation | CVPR 2023 | [2211.12268](https://arxiv.org/abs/2211.12268) | [pytorch]( github.com/sennnnn/Out-of-Candidate-Rectification) | - |
 | 2023/03 | **CLIP-ES** | CLIP is Also an Efficient Segmenter: A Text-Driven Approach for Weakly Supervised Semantic Segmentation | CVPR 2023 | [2212.09506](https://arxiv.org/abs/2212.09506) | [pytorch](https://github.com/linyq2117/CLIP-ES) | - |
 | 2023/03 | **ToCo** | Token Contrast for Weakly-Supervised Semantic Segmentation | CVPR 2023 | [2303.01267](https://arxiv.org/abs/2303.01267) | [pytorch](https://github.com/rulixiang/ToCo) | - |
+| 2023/02 | - | Semantic-Aware Superpixel for Weakly Supervised Semantic Segmentation | AAAI 2023 | [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/25196) | [pytorch](https://github.com/st17kim/semantic-aware-superpixel) | - |
 | 2022/11 | **BECO** | Boundary-enhanced Co-training for Weakly Supervised Semantic Segmentation | CVPR 2023 | - | [pytorch](https://github.com/ShenghaiRong/BECO) | - |
 | 2022/04 | **L2G** | L2G: A Simple Local-to-Global Knowledge Transfer Framework for Weakly Supervised Semantic Segmentation | CVPR 2022 | [2204.03206](https://arxiv.org/abs/2204.03206) | [pytorch](https://github.com/PengtaoJiang/L2G) | - |
 | 2022/03 | **CCAM** | Contrastive Learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation | CVPR 2022 | [2203.13505](https://arxiv.org/abs/2203.13505) | [pytorch](https://github.com/CVI-SZU/CCAM) | - |
